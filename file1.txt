@@ -7,3 +7,5 @@ a change to commit without add
 file 1 is changed again
 
 updated after being added
+
+This line was added in GitHub
