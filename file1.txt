@@ -5,3 +5,5 @@ def
 a change to commit without add
 
 file 1 is changed again
+
+updated after being added
